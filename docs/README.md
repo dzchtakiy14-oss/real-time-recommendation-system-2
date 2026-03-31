@@ -65,7 +65,7 @@ The system maintains low latency even under high load, with the majority of requ
 
 ## Load Testing (Locust)
 
-![Load Test](docs/test.png)
+![Load Test](test.png)
 
 Data Flow Diagram:
-![Diagram](docs/data_flow_diagram.svg)
+![Diagram](data_flow_diagram.svg)

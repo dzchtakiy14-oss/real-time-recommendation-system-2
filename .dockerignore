@@ -1,0 +1,40 @@
+# ملفات النظام المحلي
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.env
+
+# مجلدات البيئة الافتراضية
+venv/
+env/
+.venv/
+
+# ملفات التثبيت المحلية
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ملفات التعريف الخاصة بالمحرر
+.idea/
+.vscode/
+*.log
+
+# ملفات البيانات الكبيرة
+data/
+models/
+
+# ملفات تشغيل محلية
+*.sqlite
+*.db
+
+# الملفات المؤقتة
+*.tmp
+*.bak
+*.old
+
+# ملفات git
+.git/
+.gitignore
